@@ -1,6 +1,6 @@
 # La fiscalité en Nouvelle-Calédonie — module élus du Congrès
 
-Version **V7.2.24 · noyau v1.8.1** — 28 octobre 2026 — IFAP × Congrès de la Nouvelle-Calédonie.
+Version **V7.2.25 · noyau v1.8.1** — 28 octobre 2026 — IFAP × Congrès de la Nouvelle-Calédonie.
 
 Version web (aperçu Netlify / GitHub Pages) du module SCORM. Le package déposé dans LIANE (Moodle) est fourni séparément.
 
