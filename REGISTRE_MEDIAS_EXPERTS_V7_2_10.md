@@ -32,7 +32,7 @@ description: Inventaire exhaustif des images transmises par Anaïs Gential et É
 | X10 | Tableau 21 — fiscalité perçue 2020-2024 | `Images_extraites/P1_Fondamentaux_image_05.png` | `fisc-b2-intro` | CTC, tableau 21 | — |
 | X11 | Graphique 18 — évolution de la fiscalité perçue | `Images_extraites/P1_Fondamentaux_image_06.png` | `fisc-b2-intro` | CTC, graphique 18 | — |
 | X12 | Impôt sur les sociétés (M06) | `Medias_retour_2026-09-07/M06_…png` | `fisc-b2-01` IS | Retour expert, d'après CINC | demandé (P3 3/10) ; **640 px, HD à demander** |
-| X13 | Schéma simplifié résultat comptable → IS | `Images_extraites/P3_Principaux_impots_image_01.jpg` | `fisc-b2-01` | Support expert P3 | — |
+| X13 | Schéma simplifié résultat comptable → IS | `Images_extraites/P3_Principaux_impots_image_01.jpg` | retiré (V7.2.32) | Support expert P3 | remplacé par un schéma interactif |
 | X14 | Barème IR NC / métropole 2026 (M07) | `Medias_retour_2026-09-07/M07_…png` | `fisc-b2-01b` IRPP | Retour expert, d'après CINC et barème national | demandé (P3 4/10) ; **640 px, HD à demander** |
 | X15 | Défiscalisation indirecte (M08) | `Medias_retour_2026-09-07/M08_…png` | `fisc-b4-v724-03` | Retour expert, d'après art. Lp. 45 ter 1 CINC | demandé (P5) ; **427 px, HD à demander** ; **divergence à arbitrer** (voir ci-dessous) |
 | X16 | Fiscalité et terres coutumières 1/2 (M09) | `Medias_retour_2026-09-07/Versions_generiques/M09_…_generique.png` | `fisc-b6-v63` | Retour expert ; version générique IFAP ; LO art. 18 ; CINC | demandé (P7) ; « Moindou » retiré |
