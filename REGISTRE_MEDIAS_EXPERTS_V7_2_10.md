@@ -28,7 +28,7 @@ description: Inventaire exhaustif des images transmises par Anaïs Gential et É
 | X06 | Système de répartition fiscale (M03) | `Medias_retour_2026-09-07/M03_…png` | `fisc-p0-02c` Budget de répartition | Retour expert ; LO art. 49, 49-1, 181 ; Accord de Nouméa | demandé (P1 7/11) ; **640 px, HD à demander** |
 | (V7.2.9) | Budget de répartition 2025-2026 | `Images_extraites/P1_Fondamentaux_image_09.png` | `fisc-p0-02c` | BP 2026 NC, scénario +1 % PIB ; support expert P1 | — |
 | X08 | Tableau 46 — prélèvements obligatoires (M04) | `Images_extraites/P1_Fondamentaux_image_02.png` (HD) = M04 | `fisc-p0-03a` | CTC, tableau 46 | demandé (P1 8/11) |
-| X09 | Fiscalité perçue en 2024 (M05) | `Images_extraites/M05_Fiscalite_percue_2024.png` (1900 px) | `fisc-b2-intro` | Retour expert, d'après CTC tableau 21 | demandé (P3 1/10) ; note de périmètre 170,45 / 184,9 Md F ajoutée |
+| X09 | Fiscalité perçue en 2024 (M05) | version HD redessinée (1535 px, 30/10/2026) ; origine `Images_extraites/M05_Fiscalite_percue_2024.png` | `fisc-b2-intro` | Retour expert, d'après CTC tableau 21 | demandé (P3 1/10) ; note de périmètre 170,45 / 184,9 Md F ajoutée |
 | X10 | Tableau 21 — fiscalité perçue 2020-2024 | `Images_extraites/P1_Fondamentaux_image_05.png` | `fisc-b2-intro` | CTC, tableau 21 | — |
 | X11 | Graphique 18 — évolution de la fiscalité perçue | `Images_extraites/P1_Fondamentaux_image_06.png` | `fisc-b2-intro` | CTC, graphique 18 | — |
 | X12 | Impôt sur les sociétés (M06) | `Medias_retour_2026-09-07/M06_…png` | `fisc-b2-01` IS | Retour expert, d'après CINC | demandé (P3 3/10) ; **640 px, HD à demander** |
